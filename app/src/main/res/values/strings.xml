@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">ScreenTime</string>
+    <string name="child_name">Child Name</string>
+    <string name="child_email">Child Email</string>
+    <string name="parent_dashboard">Parent Dashboard</string>
+    <string name="add_child">Add Child</string>
     <string-array name="roles_array">
         <item>Parent</item>
         <item>Child</item>

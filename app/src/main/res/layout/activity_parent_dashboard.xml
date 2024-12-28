@@ -10,7 +10,7 @@
         android:id="@+id/dashboardTitle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Parent Dashboard"
+        android:text="@string/parent_dashboard"
         android:textSize="20sp"
         android:gravity="center"
         android:padding="8dp"
@@ -21,4 +21,12 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:padding="8dp" />
+	
+	<Button
+    android:id="@+id/addChildButton"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/add_child"
+    android:layout_gravity="center_horizontal"
+    android:layout_marginBottom="16dp" />
 </LinearLayout>
