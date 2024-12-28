@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32184910503",
+    "project_id": "jerms-screentimeapp",
+    "storage_bucket": "jerms-screentimeapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32184910503:android:00ccbf563fe95206a0d182",
+        "android_client_info": {
+          "package_name": "com.itgnomes.screentime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2OroARyQDp84mnPSPVZJCOBjCqCHgb7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

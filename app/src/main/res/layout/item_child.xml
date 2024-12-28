@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:background="?attr/selectableItemBackground">
+
+    <TextView
+        android:id="@+id/childName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Child Name"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/childEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Child Email"
+        android:textSize="14sp"
+        android:paddingTop="4dp" />
+
+    <TextView
+        android:id="@+id/screenTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Remaining Time: 0 mins"
+        android:textSize="14sp"
+        android:paddingTop="4dp" />
+</LinearLayout>

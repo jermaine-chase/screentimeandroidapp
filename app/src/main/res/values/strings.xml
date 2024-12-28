@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScreenTime</string>
+    <string-array name="roles_array">
+        <item>Parent</item>
+        <item>Child</item>
+    </string-array>
+</resources>
